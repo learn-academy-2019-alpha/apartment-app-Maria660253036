@@ -1,4 +1,3 @@
-
 # Apartment App
 
 This is a 3 day pairing activity.  It is intended to incorporate many of the skills you have learned up until now in the course, as well as prepare you for the group projects that are just around the corner.  Spend some time up front planning how you will build this application with your pair.
